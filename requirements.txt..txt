@@ -1,0 +1,8 @@
+streamlit
+pandas
+chardet
+langchain-experimental
+langchain-community
+langchain-google-genai
+openai
+google-generativeai
