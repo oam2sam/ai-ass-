@@ -1,8 +1,8 @@
-streamlit
-pandas
-chardet
-langchain-experimental
-langchain-community
-langchain-google-genai
-openai
-google-generativeai
+streamlit==1.36.0
+pandas==2.2.2
+chardet==5.2.0
+langchain-experimental==0.0.61
+langchain-community==0.2.0
+langchain-google-genai==1.0.5
+openai==1.30.1
+google-generativeai==0.6.0
